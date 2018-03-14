@@ -1,4 +1,4 @@
-# gbmtuning: Tuning a Gradient Boosting (GBM) in Python 
+# gbmtuning: Tuning Gradient Boosting (GBM) in Python 
 Author: Thomas Spycher, March 3rd, 2018
 
 
